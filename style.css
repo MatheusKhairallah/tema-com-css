@@ -1,14 +1,22 @@
-body {
+body{
+    background-image: url(pexels-min-an-1403550.jpg);
 }
 
-main#container {
+main#container{
+    border-width: 10px; border-style: solid; border-radius: 10%; border-color: #2C6673;
+    background-color: #d9afa08c;
+    box-shadow: 0 0 6px 6px #45788cab;
 }
 
-h1.titulo {
+h1.titulo{
+    color: #01261C;
+    font-family: 'Permanent Marker', cursive;
 }
 
-p.frase {
+p.frase{
+    font-family: 'Lobster', cursive;
 }
 
-p.autor {
+p.autor{
+    font-family: 'Lobster', cursive;
 }
